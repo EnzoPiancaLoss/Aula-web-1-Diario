@@ -14,6 +14,10 @@ p{
     
 }
 
+.h1_alt {
+    font-size: 100px;
+}
+
 .entrada {
     display: flex;
     justify-content: space-between;
@@ -52,3 +56,13 @@ p{
     margin-right: auto;
     width: 50%;
   }
+
+.teste {
+    margin-top: 700px;
+  }
+
+.img_capa {
+    width: 20%;
+    margin-left: 40%;
+    margin-right: auto;
+}
